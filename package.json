@@ -1,0 +1,14 @@
+{
+  "name": "rsr-shop-v22-3",
+  "version": "22.3.0",
+  "private": true,
+  "description": "RSR Shop V22.3 with stable live chat, clear CT/NCT gamepass inventory, and multi-item gifting",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-v20.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
