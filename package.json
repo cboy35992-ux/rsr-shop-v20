@@ -1,0 +1,14 @@
+{
+  "name": "rsr-shop-v20",
+  "version": "21.0.0",
+  "private": true,
+  "description": "RSR Shop V21 professional responsive PWA with lightweight animations",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-v20.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
