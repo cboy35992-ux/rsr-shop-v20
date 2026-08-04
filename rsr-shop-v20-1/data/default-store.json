@@ -1,0 +1,19 @@
+{
+  "users": [],
+  "orders": [],
+  "messages": [],
+  "vouches": [
+    {"id":"vouch_demo_1","name":"Verified Customer","robloxUsername":"CraftReck","rating":5,"text":"Fast and clear transaction. My order was completed safely.","approved":true,"createdAt":"2026-08-01T08:00:00.000Z"},
+    {"id":"vouch_demo_2","name":"Returning Buyer","robloxUsername":"RSR Customer","rating":5,"text":"Admin support replied quickly and kept me updated.","approved":true,"createdAt":"2026-08-02T08:00:00.000Z"}
+  ],
+  "settings": {
+    "shopName":"RSR SHOP",
+    "announcement":"Welcome to RSR SHOP — verify every detail before paying.",
+    "rates":{"covered_tax":0.40,"not_covered_tax":0.28,"instant_send":0.40,"gifting":0.40},
+    "methods":{"covered_tax":true,"not_covered_tax":true,"instant_send":true,"gifting":true},
+    "stock":{"covered_tax":1000000,"not_covered_tax":1000000,"instant_send":1000000,"gifting":1000000},
+    "minRobux":100,
+    "maxRobux":100000,
+    "maintenance":false
+  }
+}
