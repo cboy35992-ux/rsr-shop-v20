@@ -1,0 +1,14 @@
+{
+  "name": "rsr-shop-v22-2",
+  "version": "22.2.0",
+  "private": true,
+  "description": "RSR Shop V22 responsive PWA with reliable live chat, fast mobile orders, and gifting order chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-v20.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
